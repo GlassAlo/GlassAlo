@@ -13,6 +13,7 @@
 | Language / Tools | Link | Description |
 |:---:|:---:|:---:|
 | [![My Skills](https://skillicons.dev/icons?i=cpp)](C++) | [**EwECS**](https://github.com/UwUClub/EwECS) |  A C++ Entity Component System game engine with a focus on performance and modularity. |
+| [![My Skills](https://skillicons.dev/icons?i=py)](Python) | [**Machine Learning**](https://github.com/UwUClub/NeuralNetwork.git) | A Python machine learning project without using packages, implementing backpropagation. |
 | [![My Skills](https://skillicons.dev/icons?i=cpp)](C++) [![Ogre](https://www.ogre3d.org/wp-content/uploads/2019/04/ogre_header.png)](Ogre3D)  | [**Zappy**](https://github.com/UwUClub/Zappy) | A C++ network game where you make an AI to survive on a planet with your team. |
 | [![My Skills](https://skillicons.dev/icons?i=js)](JavaScript) | [**Discord bot**](https://github.com/GlassAlo/discord-bot-starborne) | A Discord bot using classes for the game Starborne. |
 
