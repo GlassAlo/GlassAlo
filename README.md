@@ -12,6 +12,7 @@
 ### Some of my projects :
 | Language / Tools | Link | Description |
 |:---:|:---:|:---:|
+| [![My Skills](https://skillicons.dev/icons?i=cpp)](C++) | [**PatatOCS**](https://github.com/UwUClub/EwECS) |  A C++ Entity Component System game engine with a focus on performance and modularity. Second version of my ECS (WIP), goal is to be a real game engine |
 | [![My Skills](https://skillicons.dev/icons?i=cpp)](C++) | [**EwECS**](https://github.com/UwUClub/EwECS) |  A C++ Entity Component System game engine with a focus on performance and modularity. |
 | [![My Skills](https://skillicons.dev/icons?i=py)](Python) | [**Machine Learning**](https://github.com/UwUClub/NeuralNetwork.git) | A Python machine learning project without using packages, implementing backpropagation. |
 | [![My Skills](https://skillicons.dev/icons?i=cpp)](C++) [![Ogre](https://www.ogre3d.org/wp-content/uploads/2019/04/ogre_header.png)](Ogre3D)  | [**Zappy**](https://github.com/UwUClub/Zappy) | A C++ network game where you make an AI to survive on a planet with your team. |
