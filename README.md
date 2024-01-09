@@ -4,7 +4,7 @@
   I'm a 3rd year Epitech student:
   - 👀 I’m mainly interested in C++, Rust, Swift.
   - 💻 I really love software development, software architecture and design patterns. (Optimisation is something I love too)
-  - 🌱 I’m currently focusing on learning Rust.
+  - 🌱 I’m currently focusing on making the PatatOCS, a fully competent game engine in C++.
   - 📫 You can contact me here: ofourpatat@gmail.com
 
 ---
