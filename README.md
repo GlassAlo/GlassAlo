@@ -4,7 +4,7 @@
   I'm a 3rd year Epitech student:
   - 👀 I’m mainly interested in C++, Rust, Swift.
   - 💻 I really love software development, software architecture and design patterns. (Optimisation is something I love too)
-  - 🌱 I’m currently focusing on making the Stellar-Engine, a fully competent game engine in C++.
+  - 🌱 I’m currently aking a video game using Unreal Engine 5.
   - 📫 You can contact me here: ofourpatat@gmail.com
 
 ---
@@ -12,8 +12,6 @@
 ### Some of my projects :
 | Language / Tools | Link | Description |
 |:---:|:---:|:---:|
-| [![My Skills](https://skillicons.dev/icons?i=cpp)](C++) | [**Stellar Engine**](https://github.com/Stellar-Organisation/Stellar-Engine) |  A C++ Entity Component System game engine with a focus on performance and modularity. |
-| [![My Skills](https://skillicons.dev/icons?i=cpp)](C++) | [**Stellar Editor**](https://github.com/Stellar-Organisation/Stellar-Editor) | A GUI for the Stellar Engine aiming to facilitate the game developement |
 | [![My Skills](https://skillicons.dev/icons?i=cpp)](C++) | [**EwECS**](https://github.com/UwUClub/EwECS) |  A C++ Entity Component System game engine with a focus on performance and modularity. |
 | [![My Skills](https://skillicons.dev/icons?i=py)](Python) | [**Machine Learning**](https://github.com/UwUClub/NeuralNetwork) | A Python machine learning project without using packages, implementing backpropagation. |
 | [![My Skills](https://skillicons.dev/icons?i=cpp)](C++) [![Ogre](https://www.ogre3d.org/wp-content/uploads/2019/04/ogre_header.png)](Ogre3D)  | [**Zappy**](https://github.com/UwUClub/Zappy) | A C++ network game where you make an AI to survive on a planet with your team. |
