@@ -1,10 +1,8 @@
-![:name](https://count.getloli.com/get/@glassalo?theme=rule34)
-
 ### 👨‍💻: About Me :
-  I'm a 3rd year Epitech student:
+  I'm a 4rd year Epitech student:
   - 👀 I’m mainly interested in C++, Rust, Swift.
   - 💻 I really love software development, software architecture and design patterns. (Optimisation is something I love too)
-  - 🌱 I’m currently aking a video game using Unreal Engine 5.
+  - 🌱 I’m currently making a video game using Unreal Engine 5.
   - 📫 You can contact me here: ofourpatat@gmail.com
 
 ---
