@@ -1,5 +1,5 @@
 ### 👨‍💻: About Me :
-  I'm a 4rd year Epitech student:
+  I'm a 5th year Epitech student:
   - 👀 I’m mainly interested in C++, Rust, Swift.
   - 💻 I really love software development, software architecture and design patterns. (Optimisation is something I love too)
   - 🌱 I’m currently making a video game using Unreal Engine 5.
